@@ -2,7 +2,7 @@ import { FaLinkedin, FaGithub, FaDiscord, FaInstagram, FaWhatsapp } from "react-
 
 const socials = [
   { icon: <FaLinkedin />, path: "https://www.linkedin.com/in/karthik-medaka-788ab3210/" },
-  { icon: <FaGithub />, path: "https://github.com/solarluiso" },
+  { icon: <FaGithub />, path: "https://github.com/karthik-medaka09" },
   { icon: <FaInstagram />, path: "https://www.instagram.com/_axexk_?igsh=NDV3ZmRjY3Q0ZGQ0" },
   { icon: <FaWhatsapp />, path: "https://wa.me/916281209224" },
 ];
